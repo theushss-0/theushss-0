@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
+
+
+Áreas de interesse:
+
+  🔐 Desenvolvedor Back-end;
+  🧠 Inteligência Artificial;
+  💻 Automação.
 
 <!--
 **theushss-0/theushss-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
