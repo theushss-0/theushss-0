@@ -8,7 +8,7 @@
       <li><p>🛠️ Back-end</p></li>
       <li><p>🐍 Python / Django</p></li>
       <li><p>🧠 Inteligência Artificial</p></li>
-      <li><p>💻 utomação</p></li>
+      <li><p>💻 Automação</p></li>
     </ul>
 </table>
   
