@@ -3,14 +3,13 @@
 
 <h3>Áreas de interesse:</h3>
 
-<table>
-    <ul>
-      <li><p>🛠️ Back-end</p></li>
-      <li><p>🐍 Python / Django</p></li>
-      <li><p>🧠 Inteligência Artificial</p></li>
-      <li><p>💻 Automação</p></li>
-    </ul>
-</table>
+
+
+* 🛠️ `Back-end`
+* 🐍 `Python / Django`
+* 🧠 `Inteligência Artificial`
+* 💻 `Automação`
+
   
   
   
