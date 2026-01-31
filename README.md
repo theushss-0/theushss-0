@@ -3,9 +3,10 @@
 
 Áreas de interesse:
 
-  🔐 Desenvolvedor Back-end;<br>
-  🧠 Inteligência Artificial;<br>
-  💻 Automação.<br><br>
+  🛠️ `Desenvolvedor Back-end;`<br>
+  🐍 `Python / Django;`<br>
+  🧠 `Inteligência Artificial;`<br>
+  💻 `Automação.`<br><br>
 
 <!--
 **theushss-0/theushss-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
