@@ -1,12 +1,12 @@
 ## Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
 
 
-Áreas de interesse:
+<strong>Áreas de interesse:</strong>
 
-  🛠️ `Back-end;`<br>
-  🐍 `Python / Django;`<br>
-  🧠 `Inteligência Artificial;`<br>
-  💻 `Automação.`<br><br>
+  🛠️ `Back-end`<br>
+  🐍 `Python / Django`<br>
+  🧠 `Inteligência Artificial`<br>
+  💻 `Automação`<br><br>
 
 <!--
 **theushss-0/theushss-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
