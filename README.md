@@ -1,4 +1,5 @@
-## Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
+## Bem Vindo! 🙂
+Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
 
 
 <h3>Áreas de interesse:</h3>
