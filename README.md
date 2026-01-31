@@ -3,7 +3,7 @@
 
 Áreas de interesse:
 
-  🛠️ `Desenvolvedor Back-end;`<br>
+  🛠️ `Back-end;`<br>
   🐍 `Python / Django;`<br>
   🧠 `Inteligência Artificial;`<br>
   💻 `Automação.`<br><br>
