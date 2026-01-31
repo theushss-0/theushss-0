@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
 
 
-<strong>Áreas de interesse:</strong>
+<h3>Áreas de interesse:</h3>
 
 <table>
     <ul>
