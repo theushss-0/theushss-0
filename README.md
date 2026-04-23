@@ -1,5 +1,5 @@
 ## Bem Vindo! 🙂
-Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
+Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 
 
 <h3>Áreas de interesse:</h3>
