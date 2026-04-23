@@ -11,11 +11,6 @@ Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 * 🧑‍💻 `Desenvolvimento web / FullStack`
 * 🧠 `Inteligência Artificial`
 * 💻 `Automação`
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theushss-0&hide_progress=true)
-
-
-
   
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
