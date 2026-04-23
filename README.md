@@ -2,6 +2,10 @@
 Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theushss-0&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+
 <h3>Áreas de interesse:</h3>
 
 
@@ -13,9 +17,7 @@ Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 * 💻 `Automação`
   
   
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theushss-0&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+
   
 
 <!--
