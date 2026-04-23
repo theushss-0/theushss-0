@@ -8,7 +8,7 @@ Olá! Eu me chamo Matheus e atualmente curso Ciência da Computação.
 
 * 🛠️ `Back-end`
 * 🐍 `php / Python / Django / Pandas`
-* 🧑‍💻 `/ Desenvolvimento web / FullStack`
+* 🧑‍💻 `Desenvolvimento web / FullStack`
 * 🧠 `Inteligência Artificial`
 * 💻 `Automação`
 
