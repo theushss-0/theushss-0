@@ -12,7 +12,7 @@ Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 * 🧠 `Inteligência Artificial`
 * 💻 `Automação`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theushss-0&hide_progress=true)
 
 
 
