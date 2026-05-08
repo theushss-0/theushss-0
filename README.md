@@ -11,7 +11,8 @@ Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 
 
 * 🛠️ `Back-end / Full Stack`
-* 🐍 `Php / Python / Django / Pandas`
+* 🐍 `Php / Python / Js`
+* 👨‍💻 `Laravel / Django `
 * 🧠 `Inteligência Artificial`
 * 💻 `Automação`
   
