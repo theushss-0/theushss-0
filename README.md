@@ -3,7 +3,7 @@ Olá! Eu me chamo Matheus, por aqui você encontra meus projetos e exercicios.
 
 <h3>Áreas de interesse:</h3>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theushss-0&hide_progress=true)
 
 * 🛠️ `Back-end / Full Stack`
 * 🐍 `Php / Python / Js`
